@@ -1,0 +1,13 @@
+name: entry_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9.6
+  - numpy = 1.21.4
+  - matplotlib
+  - tqdm
+  - plotly
+  - seaborn
+  - jupyter
+  - jupyterlab=3.3.2
